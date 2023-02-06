@@ -1,0 +1,41 @@
+# Basics Functions (BasFunc)
+# def arg[name] arg[value]
+def var 0
+# prt arg[var/number]
+prt var
+prt 10
+prt 0.1
+# inp arg[var]
+inp alpha
+# del arg[var]
+del alpha
+
+# If conditonals
+# equ arg[var/number] arg[var/number] arg[var] arg[var/number] (Equ-als)
+equ var alpha bravo var
+# not arg[var/number] arg[var/number] arg[var] arg[var/number] (Not equals)
+not var alpha bravo var
+# moe arg[var/number] arg[var/number] arg[var] arg[var/number] (M-ore than o-r e-quals to)
+moe var alpha bravo var
+# soe arg[var/number] arg[var/number] arg[var] arg[var/number] (S-maller than o-r e-quals to)
+soe var alpha bravo var
+# mre arg[var/number] arg[var/number] arg[var] arg[var/number] (M-o-re than)
+mre var alpha bravo var
+# sma arg[var/number] arg[var/number] arg[var] arg[var/number] (Smaller than)
+sma var alpha bravo var
+
+# Math Lib
+# add arg[var/number] arg[var/number] arg[var] (add to)
+add alpha bravo charlie
+# sub arg[var/number] arg[var/number] arg[var] (sub-stract to)
+sub alpha bravo charlie
+# mul arg[var/number] arg[var/number] arg[var] (mul-tiply)
+mul alpha bravo charlie
+# div arg[var/number] arg[var/number] arg[var] (div-ide)
+div alpha bravo charlie
+# ele arg[var/number] arg[var/number] arg[var] (ele-vated to)
+ele alpha bravo charlie
+# rin arg[var/number] arg[var/number] arg[var] (r-andom in-teger)
+rin 0 10 delta
+# rfl arg[var/number] arg[var/number] arg[var] (r-andom fl-oat)
+rfl 0 10 foxtrot
