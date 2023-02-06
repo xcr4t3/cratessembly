@@ -4,6 +4,9 @@ Cratessembly is a open-source coding language. Created by me, as a challenge for
 ## Types
 At the moment, the only types are int and floats. Strings will be added in a future. But booleans wont! (This becuase there is not usage for them at all)
 
+## What should you report at "Issues" tab?
+What I will suggest you, is to report python crashes (any crash that is made using cly.py) and cratessembly bugs. Will read it!
+
 ## Functions
 
 def -
