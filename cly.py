@@ -1,8 +1,8 @@
 # Imports (Own)
-import bin._math as MATH
-import bin.variable as VAR
-import bin.console as CON
-import bin.IF as IF
+import lib._math as MATH
+import lib.variable as VAR
+import lib.console as CON
+import lib.IF as IF
 # Imports (Not created by me)
 from sys import argv
 import string
