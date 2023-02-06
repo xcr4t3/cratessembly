@@ -41,6 +41,13 @@ rfl alpha bravo var
 example:
 rfl alpha bravo charlie
 
+del -
+The "del" function deletes a variable.
+usage:
+del alpha
+example:
+del alpha
+
 add/sub/mul/div/ele -
 This are the math operators. This is a list of which is X operator.
 Func - Operator
