@@ -1,4 +1,4 @@
-import bin.variable as VAR
+import lib.variable as VAR
 
 def _prt(alpha):
     try:
