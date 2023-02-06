@@ -1,4 +1,4 @@
-import bin.variable as VAR
+import lib.variable as VAR
 from random import randint, uniform
 
 def _add(alpha, bravo, var: str):
