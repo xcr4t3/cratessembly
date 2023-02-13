@@ -1,6 +1,16 @@
 # Cratessembly
 Cratessembly is a open-source coding language. Created by me, as a challenge for myself. It's sytaxis looks like Assembly, and I wanted it to have my name.
 
+## How to use
+First of all, download all the repo as a zip file, uncompress in anyfolder you want, then, you will need only python (3.11 or new versions), then, you can try making a cratessembly file by yourself, or use this as an try code:
+<code>
+def alpha 1
+prt alpha
+def alpha 2
+prt alpha
+</code>
+Then, save it with whatever name you want, and then run cly.py and with the filename.cly as the arg.
+This should show 1 and 2 in 2 lines, if that's not the case, report it.
 ## Types
 At the moment, the only types are int and floats. Strings will be added in a future. But booleans wont! (This becuase there is not usage for them at all)
 
